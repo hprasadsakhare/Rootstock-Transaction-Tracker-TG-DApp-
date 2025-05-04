@@ -1,9 +1,8 @@
-import dotenv from "dotenv";
 import express from "express";
 import bodyParser from "body-parser";
 import TelegramBot from "node-telegram-bot-api";
 import Web3 from "web3";
-
+import dotenv from "dotenv";
 // Load environment variables
 dotenv.config();
 
