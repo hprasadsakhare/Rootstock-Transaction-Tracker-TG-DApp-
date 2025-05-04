@@ -27,6 +27,8 @@ The bot provides the following commands:
 - `/validate <address>` - Check if an address is valid
 - `/help` - Show all available commands
 
+![Image](https://github.com/user-attachments/assets/cc079080-9346-40ea-8c75-dadaf8cb69fe)
+
 ## 🔧 Setup and Installation
 
 ### Prerequisites
